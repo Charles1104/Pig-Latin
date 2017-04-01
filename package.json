@@ -1,0 +1,27 @@
+{
+  "name": "Morning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha --watch tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charles1104/Pig-Latin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charles1104/Pig-Latin/issues"
+  },
+  "homepage": "https://github.com/Charles1104/Pig-Latin#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
